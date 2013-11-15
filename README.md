@@ -10,6 +10,10 @@ $ python shorten.py
 
 Should start a localhost:5000
 
-If you'd like to access the admin (to see the list of shorten URLs) the usr/pwd are as follows:
+If you'd like to access the admin (to see the list of shorten URLs), click the admin button,
+
+the credentials are as follows:
+
 admin
+
 default
